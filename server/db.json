@@ -1,0 +1,27 @@
+{
+  "giveaways": [
+    {
+      "id": "acfvjued6mce9bqdh",
+      "title": "HANS BYTE",
+      "hostName": "BYTE",
+      "channelUrl": "https://u.me",
+      "endDate": "2025-06-27T23:52:00.000Z",
+      "createdAt": "2025-06-27T03:33:08.549Z",
+      "creatorId": "hwqzridwpmce9bqdh",
+      "participants": [],
+      "isActive": true
+    }
+  ],
+  "users": [],
+  "referralClicks": [
+    {
+      "id": "lfd3t4u5dmce9cqjp",
+      "giveawayId": "acfvjued6mce9bqdh",
+      "referrerId": "p8qmfl38xmce9c2me",
+      "clickerIp": "127.0.0.1",
+      "timestamp": "2025-06-27T03:33:55.429Z",
+      "isValid": true
+    }
+  ],
+  "channelJoins": []
+}
